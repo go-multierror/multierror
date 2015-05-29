@@ -31,7 +31,7 @@ func New(errors []error) error {
 	for len(input) > 0 {
 		e := input[0]
 		if me, ok := e.(MultipleErrors); ok {
-			tmp := make([]error, len(me) + len(input) - 1)
+			tmp := make([]error, len(me)+len(input)-1)
 			copy(tmp[0:len(me)], me)
 			copy(tmp[len(me):], input[1:])
 			input = tmp
