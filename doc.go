@@ -1,2 +1,2 @@
 // Package multierror provides an implementation of composite errors.
-package multierror
+package multierror // import "github.com/chronos-tachyon/go-multierror"
