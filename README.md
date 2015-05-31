@@ -1,6 +1,8 @@
 # go-multierror
 A tiny Go library for bundling together multiple error objects
 
+[![Build Status](https://travis-ci.org/chronos-tachyon/go-multierror.svg)](https://travis-ci.org/chronos-tachyon/go-multierror)
+
 	import (
 		"errors"
 	
