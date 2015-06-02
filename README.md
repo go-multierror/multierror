@@ -2,7 +2,7 @@
 A tiny Go library for bundling together multiple error objects
 
 [![Build Status](https://travis-ci.org/chronos-tachyon/go-multierror.svg)](https://travis-ci.org/chronos-tachyon/go-multierror)
-[![godoc](https://chronos-tachyon.net/img/godoc-badge.svg)](http://godoc.org/github.com/chronos-tachyon/go-multierror)
+[![godoc](https://chronos-tachyon.net/img/godoc-badge.svg)](https://godoc.org/github.com/chronos-tachyon/go-multierror)
 
 	import (
 		"errors"
