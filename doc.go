@@ -1,2 +1,2 @@
 // Package multierror provides a type for composite errors.
-package multierror // import "github.com/cloud9-tools/go-multierror"
+package multierror // import "cloud9.tools/go/multierror"
