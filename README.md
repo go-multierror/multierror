@@ -1,14 +1,14 @@
 # go-multierror
 A tiny Go library for bundling together multiple error objects
 
-[![godoc](https://chronos-tachyon.net/img/godoc-badge.svg)](https://godoc.org/github.com/chronos-tachyon/go-multierror)
-[![Build Status](https://travis-ci.org/chronos-tachyon/go-multierror.svg)](https://travis-ci.org/chronos-tachyon/go-multierror)
-[![Coverage Status](https://coveralls.io/repos/chronos-tachyon/go-multierror/badge.svg)](https://coveralls.io/r/chronos-tachyon/go-multierror)
+[![godoc](https://chronos-tachyon.net/img/godoc-badge.svg)](https://godoc.org/cloud9.tools/go/multierror)
+[![Build Status](https://travis-ci.org/cloud9-tools/go-multierror.svg)](https://travis-ci.org/cloud9-tools/go-multierror)
+[![Coverage Status](https://coveralls.io/repos/cloud9-tools/go-multierror/badge.svg)](https://coveralls.io/r/cloud9-tools/go-multierror)
 
 	import (
 		"errors"
 	
-		"github.com/chronos-tachyon/go-multierror"
+		"cloud9.tools/go/multierror"
 	)
 	
 	var (
