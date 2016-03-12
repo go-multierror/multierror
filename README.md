@@ -4,6 +4,7 @@ A tiny Go library for bundling together multiple error objects
 [![godoc](https://chronos-tachyon.net/img/godoc-badge.svg)](https://godoc.org/cloud9.tools/go/multierror)
 [![Build Status](https://travis-ci.org/cloud9-tools/go-multierror.svg)](https://travis-ci.org/cloud9-tools/go-multierror)
 [![Coverage Status](https://coveralls.io/repos/cloud9-tools/go-multierror/badge.svg)](https://coveralls.io/r/cloud9-tools/go-multierror)
+[![GitHub release](https://img.shields.io/github/release/cloud9-tools/go-multierror.svg)]()
 
 	import (
 		"errors"
